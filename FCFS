@@ -43,3 +43,7 @@ printf("___FCFS CPU SCHEDULING___");
 printf("Average WT = %f\n\n",totalWT/n);
  return 0;
  }
+ COMMANDS:
+ skcet@sk-mca-507:~$ gedit FCFS.c
+ skcet@sk-mca-507:~$ cc FCFS.c
+ skcet@sk-mca-507:~$ ./a.out
